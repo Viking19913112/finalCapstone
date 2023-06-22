@@ -1,0 +1,46 @@
+User overview File
+
+--------------------------------------------------
+Total users: 5
+Total tasks: 4
+--------------------------------------------------
+User: admin
+
+Total tasks assigned: 1
+Total tasks assigned percentage: 25.0%
+Total tasks completed percentage: 0.0%
+Total tasks uncompleted percentage: 100.0%
+Total tasks overdue percentage: 100.0%
+--------------------------------------------------
+User: example1
+
+Total tasks assigned: 1
+Total tasks assigned percentage: 25.0%
+Total tasks completed percentage: 0.0%
+Total tasks uncompleted percentage: 100.0%
+Total tasks overdue percentage: 0.0%
+--------------------------------------------------
+User: example4
+
+Total tasks assigned: 1
+Total tasks assigned percentage: 25.0%
+Total tasks completed percentage: 100.0%
+Total tasks uncompleted percentage: 0.0%
+Total tasks overdue percentage: 0.0%
+--------------------------------------------------
+User: example7
+
+Total tasks assigned: 1
+Total tasks assigned percentage: 25.0%
+Total tasks completed percentage: 0.0%
+Total tasks uncompleted percentage: 100.0%
+Total tasks overdue percentage: 0.0%
+--------------------------------------------------
+User: example10
+
+Total tasks assigned: 0
+Total tasks assigned percentage: 0%
+Total tasks completed percentage: 0%
+Total tasks uncompleted percentage: 0%
+Total tasks overdue percentage: 0%
+--------------------------------------------------
