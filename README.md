@@ -58,7 +58,19 @@ Usage
        vm- View my tasks
        e- Exit
   
-  d
+  menu description:
+       r-  Register User: Allows a user to register by providing a unique username and password.
+       a-  Add Task: Lets a user add a new task by providing task details.
+       va- View All Tasks: Displays all tasks in the system. Admin users can view tasks assigned to all users, 
+            while regular users can only view their own tasks.
+       vm- View My Tasks: Shows tasks assigned to the currently logged-in user.
+            includes the ability to edit the task.
+       gr- Generate and Display Reports: Generates reports containing information about tasks and registered users. 
+            This option is available only to admin users.
+       ds- Generate and Display Statistick: Generates statistick containing information about tasks and registered users. 
+            This option is available only to admin users.
+       e-  Exit: Terminates the program.
+   
       
 
 ------
